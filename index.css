@@ -9,6 +9,13 @@
 	font-size: 13px;
 	color: #666;
 }
+#apps {
+	width: 15px;
+	height: 10px;
+	margin-top: 3px;
+	margin-right: 20px;
+	background-image: url("images/google_apps.png");
+}
 #signin {
 	color: white;
 	background-color: #4285f4;
@@ -29,6 +36,11 @@
 	padding-top: 30px;
 	clear: right;
 	text-align: -webkit-center;
+}
+#mic {
+	position: relative;
+	top: 35px;
+	left: 276px;
 }
 #sbar {
 	width: 580px;
