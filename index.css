@@ -1,0 +1,7 @@
+#header {
+	float: right;
+}
+.a {
+	display: inline-block;
+	float: left;
+}
